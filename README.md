@@ -5,7 +5,7 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
-- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [PyTgCalls](https://github.com/theshashankk/NarutoMusiCRoBoT)
 
 <h2 align="centre">⚙️ Set Up ⚙️</h3>
 
