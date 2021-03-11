@@ -7,7 +7,7 @@
       "pytgcalls",
       "productivity"
     ],
-    "repository": "https://github.com/TheVaders/MusicBot",
+    "repository": "https://github.com/theshashankk/NarutoMusiCRoBoT",
     "stack": "container",
     "env": {
       "API_ID": {
@@ -27,8 +27,8 @@
         "value": ""
       },
       "BOT_NAME": {
-        "description": "Your Bot Name. By default it is Hêllẞø†",
-        "value": "Hêllẞø†"
+        "description": "Your Bot Name. By default it is 𝙎𝙝𝙖𝙨𝙝𝙖𝙣𝙆",
+        "value": "𝙎𝙝𝙖𝙨𝙝𝙖𝙣𝙆"
       },
       "SUDO_USERS": {
         "description": "List of ID of those who can pause, stop and clear queue,separated by space.",
