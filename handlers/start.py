@@ -17,7 +17,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
        f"""🙃 Hi {message.from_user.first_name}!
 
-✨ I am Hêllẞø† Music Player. 
+✨ I am ռǟʀʊȶօ Music Player. 
 
 🥳 I can play music in your Telegram Group's Voice Chat😉
 
@@ -26,15 +26,15 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📔 Source Code 📔", url="https://github.com/TheVaders/MusicBot"
+                        "📔 Source Code 📔", url="https://github.com/theshashankk/NarutoMusiCRoBoT"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group 💬", url="https://t.me/hellbot_official_chat"
+                        "💬 Group 💬", url="https://t.me/WhiteDevilMods"
                     ),
                     InlineKeyboardButton(
-                        "📣 Channel 📣", url="https://t.me/hellbot_official"
+                        "📣 Channel 📣", url="https://t.me/WhiteDevilMods"
                     )
                 ],
                 [
@@ -54,7 +54,7 @@ async def start_(client: Client, message: Message):
 )
 async def start(client: Client, message: Message):
     await message.reply_text(
-        "**Hêllẞø†:** I'm Working!!!\nUse me in Inline to search for a YouTube Video/Music. \n**Happy Streaming**",
+        "**𝙎𝙝𝙖𝙨𝙝𝙖𝙣𝙆:** I'm Working!!!\nUse me in Inline to search for a YouTube Video/Music. \n**Happy Streaming**",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
