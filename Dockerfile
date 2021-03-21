@@ -8,9 +8,9 @@ RUN apt-get update -y && \
         python3-pip \
         git \
         ffmpeg && \
-    git clone https://github.com/theshashankk/NarutoMusiCRoBoT.git && \
+    git clone https://github.com/theshashankk/NarutoMusiCRoBoT && \
     cd MusicBot && \
-    git clone https://github.com/theshashankk/NarutoMusiCRoBoT.git && \
+    git clone https://github.com/theshashankk/NarutoMusiCRoBoT && \
     cd pytgcalls && \
     npm install && \
     npm run prepare && \
